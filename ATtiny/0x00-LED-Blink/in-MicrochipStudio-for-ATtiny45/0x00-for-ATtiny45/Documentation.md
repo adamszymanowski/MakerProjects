@@ -1,6 +1,6 @@
 # LED Blink
 
-This is simple app for ATTIny85 microcontroller using AVR assembly, so I can learn it by doing simple projects.
+This is simple app for ATTIny85/ATtiny45 microcontroller using AVR assembly, so I can learn it by doing simple projects.
 It's a refecence to build upon for future projects.
 
 It uses few basic features of this chip: internal timer, timer interrupt handling, IO handling.

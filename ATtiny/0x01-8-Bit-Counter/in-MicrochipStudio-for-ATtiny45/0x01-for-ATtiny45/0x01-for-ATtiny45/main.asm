@@ -47,10 +47,8 @@ RESET: ; main program
 	; initialize Stack Pointer
 	; This Stack space in the data SRAM must be defined by the program before any subroutine calls are executed or interrupts are enabled
 	
-	; NOTE: This was originally for ATtiny 85, but this program is so simple I won't use it
-	; NOTE: ATtiny 13 stack is so small that only SPL is needed. In this case, the SPH Register will not be present.
-	;ldi r16, HIGH(RAMEND)
-	;out SPH, r16
+	ldi r16, HIGH(RAMEND)
+	out SPH, r16
 
 	ldi r16, LOW(RAMEND)
 	out SPL, r16
