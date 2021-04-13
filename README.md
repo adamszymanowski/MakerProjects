@@ -10,6 +10,11 @@ build up upon what I already have and so on (If this makes any sense).
 
 # Projects
 - 0x00 LED Blink (Hello, World! of microcontrollers)
-  * [in Microchip Studio for ATtiny45 in Assembly]()
+  * [in Microchip Studio for ATtiny45 in Assembly](https://github.com/adamszymanowski/MakerProjects/blob/main/ATtiny/0x00-LED-Blink/in-MicrochipStudio-for-ATtiny45/0x00-for-ATtiny45/Documentation.md)
+    - NOTE: This works for ATtiny85, and since it's so simple it should work for ATtiny25
+
 - 0x01 8-bit Counter
+  * [in Microchip Studio for ATtiny45 in Assembly](https://github.com/adamszymanowski/MakerProjects/blob/main/ATtiny/0x01-8-Bit-Counter/in-MicrochipStudio-for-ATtiny45/0x01-for-ATtiny45/Documentation.md)
+    - NOTE: This works for ATtiny85, and since it's so simple it should work for ATtiny25
+
 - 0x02 Countdown timer
