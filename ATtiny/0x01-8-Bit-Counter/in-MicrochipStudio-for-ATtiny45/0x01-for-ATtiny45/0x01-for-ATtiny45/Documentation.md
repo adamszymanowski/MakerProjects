@@ -1,4 +1,4 @@
-# 8-bit Counter
+# 0x01 8-bit Counter
 
 This is another simple app for ATtiny85/ATtiny45 microcontroller using AVR assembly, so I can learn it by doing simple projects.
 It's a refecence to build upon for future projects. 
@@ -45,3 +45,5 @@ also breadboard and cables
 
 [PICkit4](https://ww1.microchip.com/downloads/en/DeviceDoc/50002751F.pdf)
 look for 11.3.2 Pinouts for Interfaces
+
+- [How to use 74hc595](https://lastminuteengineers.com/74hc595-shift-register-arduino-tutorial/)
